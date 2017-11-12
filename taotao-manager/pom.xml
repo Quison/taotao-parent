@@ -11,8 +11,8 @@
     <name>taotao-manager</name>
     <url>http://maven.apache.org</url>
     <modules>
-        <module>taotao-manger-dao</module>
-        <module>taotao-manger-pojo</module>
+        <module>taotao-manager-dao</module>
+        <module>taotao-manager-pojo</module>
         <module>taotao-manager-interface</module>
         <module>taotao-manager-service</module>
     </modules>
